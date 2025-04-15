@@ -68,6 +68,7 @@ Publish Date| Type	| Description	| Source
 | January 2025 | Ransomware | RansomHub targets a logistics firm serving Nigeria's oil and gas sector.| [Whitehat.NG]()
 | January 2025  | Defacement | A recent breach of the state government web platform, was initially reported by FalconFeeds.io approximately one month ago. While some cleanup efforts have been initiated on the main domain, we have confirmed that defacement pages still exist on the HOA subdomain, rendering essential bill pages inaccessible.| [Whitehat.NG]() 
 |January 2025 | Phishing Campaign | A new phishing campaign was spotted to target citizens interested in the NPower empowerment program. Scammers have created a fake website, asking for personal information and a fee to take an exam. https://npower-fmhds-gov-ng.web[.]app/ | [Whitehat.NG]()
+| March 2025 | Phishing Campaign | A data collection site has been found impersonating the now-defunct government program, NAPEP, through the domain napep-gov[.]ng. This site is designed to deceive users into providing personal information. The site features user registration, verification processes, and a dashboard for managing data, all aimed at collecting personally identifiable information (PII). It even charges a fee of 760.5 Naira for NIN verification | [Whitehat](https://x.com/ngwhitehat/status/1907836688665055349)
 
 
 ### `Issues Affecting Cyber Incidents Reporting`
